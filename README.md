@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="256" height="256" src="https://cdn.discordapp.com/icons/753867179048304750/a_fd5ccd63f6dddf6cc905623d54cfa0f6.png?size=512">
+  <img width="256" height="256" src="https://imgur.com/gallery/AdvusxW">
 </p>
   
 <h3 align="center">Among Us Discord BOT!</h3>
