@@ -51,10 +51,10 @@ Open the downloaded repo folder with visual studio code and locate **config.json
 The only dependancy you need in this is ascii-table, simply run `npm i ascii table` in the terminal.
 
 [2.3] Starting up the bot <br>
-Start the bot up by running the command `node index.js` in the terminal. For more information please [click here](https://github.com/reconlx/discord.js-tutorials/tree/recon-handler#command-handler).
+Start the bot up by running the command `node index.js` in the terminal..
 
 ### (The bot is up and running)
-Congrats if the bot is up and running if its not and you face error you can get support by joining our discord server. [Click here to join](https://discord.gg/xCCpfth).
+Congrats if the bot is up and running if its not and you face error you can get support by joining our discord server. [Click here to join](https://discord.gg/URmmt4nSxv).
 
 ## 📜 Commands
 **Note :** If you have changed the prefix of the bot, replace `au!` with the changed prefix!
@@ -77,11 +77,8 @@ au!dead [@user]
 //Command is used to revive a player.
 au!revive [@user]
 ```
-## 📄 License
-This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/reconlx/amongus-discord-bot/blob/main/LICENCE) file for details.
 
 ## 🎫 Additional Comments
-Have any questions about the bot, errors and more join the [support server](https://discord.gg/xCCpfth)! <br>
-Too hard for you? Just invite my bot, online 24/7 for more information [click here](https://bit.ly/zexdiscordbot)!
+Have any questions about the bot, errors and more join the [support server](https://discord.gg/URmmt4nSxv)! <br>
 
-©[reconlx](https://github.com/reconlx)
+©[killerclaws12](https://github.com/killerclaws12)
