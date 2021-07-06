@@ -60,22 +60,22 @@ Congrats if the bot is up and running if its not and you face error you can get 
 **Note :** If you have changed the prefix of the bot, replace `au!` with the changed prefix!
 ```js
 // Sets up among us commands. (necessary)
-au!setup
+{prefix}setup
 
 //Resets among us game! Used when a game has ended.
-au!reset
+{prefix}reset
 
 //Command is used when the game has started and it will deafen users in the call.
-au!start
+{prefix}start
 
 //Command is used when voting session starts.
-au!vote
+{prefix}vote
 
 //Command is used for a dead player.
-au!dead [@user]
+{prefix}dead [@user]
 
 //Command is used to revive a player.
-au!revive [@user]
+{prefix}revive [@user]
 ```
 
 ## 🎫 Additional Comments
