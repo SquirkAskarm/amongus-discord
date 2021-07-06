@@ -17,13 +17,13 @@
 
 ## 📝 Table of Contents 
 
-+ [YouTube Channel](https://youtu.be/giQBUqOoJlI)
++ [YouTube Channel](https://www.youtube.com/channel/UCL-E85eKO-Da8-YXlPmt3kA)
 + Follow my [github](https://github.com/killerclaws12) for more projects
 
 ## 🛠 Setting up the bot 
 
 ### Option 1 : Watching youtube tutorial
-- Youtube Link : https://youtu.be/giQBUqOoJlI<br />
+- Youtube Link : https://youtu.be/tnT1Yk5-91E<br />
 
 ### Option 2 : Setting up individually with docs.
 
