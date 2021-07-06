@@ -17,11 +17,8 @@
 
 ## 📝 Table of Contents 
 
-+ [Watch my youtube video on how to set it up by clicking here](https://youtu.be/giQBUqOoJlI)
-+ [Setting up the bot](https://github.com/reconlx/amongus-discord-bot/blob/main/README.md#-setting-up-the-bot)
-+ [Commands](https://github.com/reconlx/amongus-discord-bot/blob/main/README.md#-commands)
-+ [License](https://github.com/reconlx/amongus-discord-bot/blob/main/LICENCE)
-+ Follow my [github](https://github.com/reconlx) for more cool content
++ [YouTube Channel](https://youtu.be/giQBUqOoJlI)
++ Follow my [github](https://github.com/killerclaws12) for more projects
 
 ## 🛠 Setting up the bot 
 
